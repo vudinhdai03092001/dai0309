@@ -1,0 +1,163 @@
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\BackendAPI.exe
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\BackendAPI.deps.json
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\BackendAPI.runtimeconfig.json
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\BackendAPI.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\BackendAPI.pdb
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Npgsql.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.AssemblyInfo.cs
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\obj\Debug\net6.0\scopedcss\bundle\BackendAPI.styles.css
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.csproj.CopyComplete
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\obj\Debug\net6.0\refint\BackendAPI.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.pdb
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.genruntimeconfig.cache
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\obj\Debug\net6.0\ref\BackendAPI.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Desktop\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\appsettings.json
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\BackendAPI.exe
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\BackendAPI.deps.json
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\BackendAPI.runtimeconfig.json
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\BackendAPI.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\BackendAPI.pdb
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Npgsql.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.csproj.AssemblyReference.cache
+D:\Đồ án 5\DA5\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ án 5\DA5\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.AssemblyInfoInputs.cache
+D:\Đồ án 5\DA5\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.AssemblyInfo.cs
+D:\Đồ án 5\DA5\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.csproj.CoreCompileInputs.cache
+D:\Đồ án 5\DA5\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Đồ án 5\DA5\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Đồ án 5\DA5\BE\BackendAPI\obj\Debug\net6.0\staticwebassets\msbuild.BackendAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Đồ án 5\DA5\BE\BackendAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.BackendAPI.props
+D:\Đồ án 5\DA5\BE\BackendAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BackendAPI.props
+D:\Đồ án 5\DA5\BE\BackendAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BackendAPI.props
+D:\Đồ án 5\DA5\BE\BackendAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Đồ án 5\DA5\BE\BackendAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Đồ án 5\DA5\BE\BackendAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Đồ án 5\DA5\BE\BackendAPI\obj\Debug\net6.0\scopedcss\bundle\BackendAPI.styles.css
+D:\Đồ án 5\DA5\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.csproj.CopyComplete
+D:\Đồ án 5\DA5\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\obj\Debug\net6.0\refint\BackendAPI.dll
+D:\Đồ án 5\DA5\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.pdb
+D:\Đồ án 5\DA5\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.genruntimeconfig.cache
+D:\Đồ án 5\DA5\BE\BackendAPI\obj\Debug\net6.0\ref\BackendAPI.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\appsettings.json
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\BackendAPI.exe
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\BackendAPI.deps.json
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\BackendAPI.runtimeconfig.json
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\BackendAPI.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\BackendAPI.pdb
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Npgsql.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.csproj.AssemblyReference.cache
+D:\Đồ án TN\DATN\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ án TN\DATN\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.AssemblyInfoInputs.cache
+D:\Đồ án TN\DATN\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.AssemblyInfo.cs
+D:\Đồ án TN\DATN\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.csproj.CoreCompileInputs.cache
+D:\Đồ án TN\DATN\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Đồ án TN\DATN\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Đồ án TN\DATN\BE\BackendAPI\obj\Debug\net6.0\staticwebassets\msbuild.BackendAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Đồ án TN\DATN\BE\BackendAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.BackendAPI.props
+D:\Đồ án TN\DATN\BE\BackendAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BackendAPI.props
+D:\Đồ án TN\DATN\BE\BackendAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BackendAPI.props
+D:\Đồ án TN\DATN\BE\BackendAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Đồ án TN\DATN\BE\BackendAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Đồ án TN\DATN\BE\BackendAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Đồ án TN\DATN\BE\BackendAPI\obj\Debug\net6.0\scopedcss\bundle\BackendAPI.styles.css
+D:\Đồ án TN\DATN\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.csproj.CopyComplete
+D:\Đồ án TN\DATN\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\obj\Debug\net6.0\refint\BackendAPI.dll
+D:\Đồ án TN\DATN\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.pdb
+D:\Đồ án TN\DATN\BE\BackendAPI\obj\Debug\net6.0\BackendAPI.genruntimeconfig.cache
+D:\Đồ án TN\DATN\BE\BackendAPI\obj\Debug\net6.0\ref\BackendAPI.dll
